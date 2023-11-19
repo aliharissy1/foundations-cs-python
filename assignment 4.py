@@ -6,7 +6,6 @@ transport = {
     "Ashraf": [],
 }
 
-
 def addCity(city):
     cities.append(city)
 
